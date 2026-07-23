@@ -1,0 +1,101 @@
+Age,BMI,Health_Issues,Smoker,Salary,Gender,Insurance_Price
+58,18.7,Type 2 Diabetes,No,648106,Male,11960.78
+61,33.8,Sleep Apnea,Yes,1064834,Male,23078.01
+31,21.6,Sleep Apnea,Yes,596992,Female,18445.67
+55,22.7,None,Yes,514829,Female,17912.72
+27,21.2,None,No,374502,Female,6337.75
+72,24.3,High Cholesterol,No,1710358,Female,16935.4
+80,38.1,Arthritis,No,1498353,Female,18249.18
+63,17.7,Type 2 Diabetes,Yes,786890,Male,21981.07
+73,18.4,High Cholesterol,No,945108,Male,13387.72
+31,32.1,Type 2 Diabetes,No,1539028,Male,15047.72
+28,28.8,Asthma,Yes,975775,Female,21842.34
+58,32.5,Asthma,No,1791270,Male,16981.56
+20,35.3,Hypertension,No,622463,Female,10526.05
+49,25.5,Type 2 Diabetes,No,735493,Male,11451.58
+53,28.9,Type 2 Diabetes,No,1403757,Female,14937.22
+26,28.2,Arthritis,No,409950,Male,9817.71
+68,32.3,Sleep Apnea,Yes,980313,Female,23743.83
+80,29.3,Arthritis,No,420232,Female,13186.69
+39,18.7,Hypertension,Yes,186805,Female,18447.24
+66,20.3,Arthritis,No,805884,Male,12098.08
+66,19.9,None,No,181199,Female,8336.57
+25,38.3,None,No,682167,Male,9645.06
+54,38.7,Arthritis,No,325149,Male,11480.02
+48,38.7,Asthma,No,1452119,Female,16995.46
+77,28.9,Type 2 Diabetes,No,1675162,Female,17402.04
+60,31.6,Hypertension,No,1126835,Male,14355.99
+22,24.1,Sleep Apnea,No,1414048,Male,12129.7
+63,31.1,Asthma,Yes,245877,Female,19653.88
+33,22.7,Hypertension,Yes,457478,Female,18117.71
+48,35.4,Asthma,Yes,1561986,Female,25062.82
+44,27.2,Type 2 Diabetes,Yes,1550395,Male,23342.56
+64,24.1,None,Yes,581793,Male,19157.23
+26,26.1,High Cholesterol,No,338093,Female,9567.21
+72,29.2,Arthritis,No,1313695,Male,16629.17
+77,34.1,Asthma,Yes,1198463,Female,24822.85
+43,37.7,Asthma,No,998773,Female,14726.52
+68,26.9,Hypertension,No,1711980,Female,16423.59
+36,21.2,Arthritis,No,1317065,Male,13445.02
+21,17.2,Hypertension,No,1293852,Male,11421.42
+50,17.9,Asthma,Yes,322524,Male,18686.14
+78,37.4,Asthma,No,263344,Male,12862.14
+55,29.6,High Cholesterol,No,608362,Female,11752.35
+43,19.1,Type 2 Diabetes,No,843071,Male,10752.19
+57,40.0,Arthritis,Yes,627016,Female,22014.99
+40,37.1,Asthma,No,510819,Female,12389.27
+63,23.3,None,No,196406,Female,9097.43
+24,38.5,Asthma,No,404470,Male,10353.64
+56,21.1,High Cholesterol,Yes,1510093,Female,23929.03
+34,37.7,None,Yes,1510190,Female,23321.72
+20,16.1,None,Yes,729360,Male,17403.41
+53,32.9,Sleep Apnea,Yes,337797,Male,20447.13
+71,24.9,Sleep Apnea,Yes,447272,Male,20535.3
+75,38.4,None,Yes,930380,Male,23105.83
+60,18.5,None,No,1032235,Male,12110.16
+33,36.8,None,No,1044644,Male,11256.55
+77,24.0,Hypertension,No,1721527,Male,16788.0
+68,32.8,Hypertension,No,1167108,Male,15023.75
+76,27.0,High Cholesterol,No,657302,Male,12447.07
+30,25.6,High Cholesterol,No,765367,Female,11169.84
+43,32.3,None,No,237882,Male,9155.79
+34,20.3,High Cholesterol,Yes,1431100,Female,22147.5
+68,23.5,Sleep Apnea,No,422526,Female,12049.31
+30,22.1,Type 2 Diabetes,No,1270351,Male,12326.16
+22,38.8,High Cholesterol,No,1571224,Male,15662.5
+37,28.2,Type 2 Diabetes,No,1023894,Female,12761.64
+30,26.1,Hypertension,No,544961,Female,9971.56
+71,16.0,High Cholesterol,Yes,1396316,Female,24234.25
+46,32.2,Sleep Apnea,No,1723423,Male,16701.85
+36,28.4,Type 2 Diabetes,No,375847,Male,10327.86
+32,35.4,Asthma,Yes,693472,Female,21119.93
+67,17.7,Hypertension,No,1387269,Male,15383.43
+42,27.9,Asthma,Yes,1622048,Male,24934.45
+73,34.5,Arthritis,No,638943,Male,14357.35
+62,28.4,Arthritis,No,434507,Female,11129.37
+47,32.0,Sleep Apnea,No,1763874,Female,16820.74
+64,37.4,Hypertension,No,1328970,Female,17119.41
+65,36.7,Hypertension,No,698499,Female,14358.3
+51,27.6,Asthma,No,342494,Female,10222.17
+39,23.7,Sleep Apnea,Yes,496314,Male,18947.11
+27,33.0,Arthritis,No,873908,Female,11965.87
+31,36.0,Hypertension,No,1404903,Male,15375.38
+66,29.8,Hypertension,Yes,917691,Female,23442.32
+72,37.4,None,No,1747653,Male,16779.78
+35,26.5,Arthritis,No,1582729,Female,14954.61
+71,27.2,Asthma,No,1300138,Male,16180.64
+55,29.5,Arthritis,Yes,1078866,Male,23627.43
+29,17.2,Hypertension,No,1133573,Female,11669.29
+74,25.1,None,No,1064085,Female,13234.2
+48,16.5,Sleep Apnea,Yes,913920,Male,21335.91
+67,39.0,Arthritis,No,698590,Male,14862.13
+57,19.7,Asthma,No,419892,Male,10558.62
+34,34.4,Asthma,No,1748513,Male,16596.52
+28,39.2,Arthritis,No,834221,Female,12575.53
+63,20.8,Sleep Apnea,No,1495422,Male,14609.73
+67,23.2,Type 2 Diabetes,No,433870,Male,11120.01
+45,31.9,Arthritis,No,895613,Male,13604.77
+70,27.8,Hypertension,No,1512918,Female,16729.37
+45,20.2,Sleep Apnea,No,746403,Female,11204.41
+70,33.5,High Cholesterol,No,694840,Male,13455.65
+46,21.9,Hypertension,No,1581292,Female,14393.4
